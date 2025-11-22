@@ -9,7 +9,7 @@ const menu = [
     { name: "paneer", price: 9 }
 ]
 
-const cashInRegister = 100
+let cashInRegister = 100
 
 const orderQueue = []
 
